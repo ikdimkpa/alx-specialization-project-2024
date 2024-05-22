@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+ssh_key=$1
+file_path=$2
+destination=$3
+
+scp -o StrictHostKeyChecking=no -i "$ssh_key" "$file_path" "ubuntu"@"54.89.133.3":$destination

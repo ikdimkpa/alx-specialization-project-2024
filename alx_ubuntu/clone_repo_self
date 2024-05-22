@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+git clone https://(ACCESS_TOKEN)@github.com/ikdimkpa/"$1".git

@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+git clone https://(ACCESS_TOKEN)@github.com/"$1"/"$2".git

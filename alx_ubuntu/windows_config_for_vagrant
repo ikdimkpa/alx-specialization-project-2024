@@ -1,0 +1,6 @@
+ADD THE FOLLOWING FILES TO PATH IN SYSTEM ENVIROMENT VARIABLES
+
+%SystemRoot%\system32
+%SystemRoot%
+%SystemRoot%\System32\Wbem
+%SYSTEMROOT%\System32\WindowsPoewrShell\v1.0\
