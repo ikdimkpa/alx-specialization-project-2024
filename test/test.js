@@ -1,3 +1,4 @@
+import { expect } from 'chai'
 import connectDB from './server/config/db'
 import { isActiveRoute } from './server/helpers/routerHelpers'
 
